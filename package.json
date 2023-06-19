@@ -1,6 +1,6 @@
 {
   "name": "@projectleannation/capacitorauthorizenet",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Authorize.net Plugin for Capacitor Framework",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
